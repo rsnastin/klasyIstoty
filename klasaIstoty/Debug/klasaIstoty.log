@@ -1,2 +1,10 @@
-﻿  klasaIstoty.cpp
-  klasaIstoty.vcxproj -> C:\Users\Admin\GitHub\Debug\klasaIstoty.exe
+﻿  alien.cpp
+  czastka.cpp
+  czlowiek.cpp
+  istota.cpp
+  klasaIstoty.cpp
+  komorka.cpp
+  zwierze.cpp
+  Generating Code...
+  LINK : C:\Users\Admin\GitHub\klasy\Debug\klasaIstoty.exe not found or not built by the last incremental link; performing full link
+  klasaIstoty.vcxproj -> C:\Users\Admin\GitHub\klasy\Debug\klasaIstoty.exe

@@ -42,7 +42,7 @@ int main()
 	cout << endl;
 
 	cout << "Alien" << endl;
-	alien Thanos("Tytan", "Zyje", "Swiadomy", "Titan", "Thanos", "Kosmos", "Zly", "Znany"); ;
+	alien Thanos("Tytan", "Zyje", "Swiadomy", "Titan", "Thanos", "Kosmos", "Zly", "Znany");
 	Thanos.wyswietlKomorka();
 	Thanos.wyswietlIstota();
 	Thanos.wyswietlAlien();
