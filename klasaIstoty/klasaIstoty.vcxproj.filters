@@ -24,12 +24,36 @@
     <ClCompile Include="istota.cpp">
       <Filter>source</Filter>
     </ClCompile>
+    <ClCompile Include="zwierze.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="czlowiek.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="czastka.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="alien.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="komorka.h">
       <Filter>headers</Filter>
     </ClInclude>
     <ClInclude Include="istota.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="zwierze.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="czlowiek.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="czastka.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="alien.h">
       <Filter>headers</Filter>
     </ClInclude>
   </ItemGroup>

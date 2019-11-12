@@ -21,8 +21,6 @@ istota::istota(string nazwa, string statusZ, string statusS, string env )
 
 void istota::wyswietlIstota()
 {
-	cout << "Nazwa: " << nazwaObiektu << endl;
-	cout << "Status Zycia: " << statusZycia << endl;
 	cout << "Swiadomosc: " << statusSwiadomosci<< endl;
 	cout << "Wystepowanie: " << srodowisko << endl;
 }
